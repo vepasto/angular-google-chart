@@ -8,7 +8,7 @@ for AngularJS
 Wrapper directive for [Google Chart Tools](https://google-developers.appspot.com/chart/)
 
 ### A note on branches
-
+ 
 Developpement branch is `gh-pages`.
 
 Release branch is `master` (idealy), and was created just because Bower needed it.
